@@ -292,35 +292,50 @@
           {
             "slug": "bird-dog",
             "name": "Bird dog",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/core-stability/bird-dog/image.png"
+            },
             "prescription": "2 x 8 per side",
             "notes": "On hands and knees, extend one arm and the opposite leg while keeping your hips and shoulders square. Hold briefly, then switch."
           },
           {
             "slug": "Copenhagen plank",
             "name": "Copenhagen plank",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/core-stability/Copenhagen plank/image.png"
+            },
             "prescription": "2 x 20-30s per side",
             "notes": "Prop up on one forearm with feet stacked, lifting your hips into a straight line from head to feet."
           },
           {
             "slug": "dead-bug",
             "name": "Dead bug",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/core-stability/dead-bug/image.png"
+            },
             "prescription": "2 x 8 per side",
             "notes": "Lie on your back, arms reaching up and knees bent at 90 degrees. Slowly lower opposite arm and leg toward the floor while keeping your lower back flat, then return."
           },
           {
             "slug": "pallof-press",
             "name": "Pallof press",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/core-stability/pallof-press/image.png"
+            },
             "prescription": "2 x 10 per side",
             "notes": "Hold a band or cable at chest height, anchored to your side. Press it straight out in front of you, resisting the pull back toward the anchor."
           },
           {
             "slug": "side-plank",
             "name": "Side plank",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/core-stability/side-plank/image.png"
+            },
             "prescription": "2 x 20-30s per side",
             "notes": "Prop up on one forearm with feet stacked, lifting your hips into a straight line from head to feet."
           }
@@ -386,42 +401,60 @@
           {
             "slug": "90-90-hip-switch",
             "name": "90 90 hip switch",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/hips/90-90-hip-switch/image.png"
+            },
             "prescription": "8 reps per side",
             "notes": "Sit with both knees bent at 90 degrees, one in front and one to the side. Rotate through the hips to switch which leg is forward."
           },
           {
             "slug": "couch-stretch",
             "name": "Couch stretch",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/hips/couch-stretch/image.png"
+            },
             "prescription": "2 x 30s per side",
             "notes": "Kneel with your back foot propped against a wall or couch, back knee bent. Squeeze the glute on that side and shift your hips forward."
           },
           {
             "slug": "deep squat hold",
             "name": "Deep squat hold",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/hips/deep squat hold/image.png"
+            },
             "prescription": "1-2min",
             "notes": "Kneel with your back foot propped against a wall or couch, back knee bent. Squeeze the glute on that side and shift your hips forward."
           },
           {
             "slug": "hip airplanes",
             "name": "Hip airplanes",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/hips/hip airplanes/image.png"
+            },
             "prescription": "5 reps per side",
             "notes": "From a deep lunge, place both hands inside the front foot, rotate your chest toward the ceiling, then return."
           },
           {
             "slug": "hip-circles",
             "name": "Hip circles",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/hips/hip-circles/image.png"
+            },
             "prescription": "10 reps each direction",
             "notes": "Stand tall, hands on hips. Draw slow, wide circles with your hips like a hula hoop. Keep knees soft and core braced."
           },
           {
             "slug": "worlds-greatest-stretch",
             "name": "Worlds greatest stretch",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/hips/worlds-greatest-stretch/image.png"
+            },
             "prescription": "5 reps per side",
             "notes": "From a deep lunge, place both hands inside the front foot, rotate your chest toward the ceiling, then return."
           }
@@ -494,35 +527,50 @@
           {
             "slug": "cat-cow",
             "name": "Cat cow",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/spine-posture/cat-cow/image.png"
+            },
             "prescription": "1x15",
             "notes": "On hands and knees, alternate between arching the back and rounding it, moving with your breath."
           },
           {
             "slug": "childs-pose",
             "name": "Childs pose",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/spine-posture/childs-pose/image.png"
+            },
             "prescription": "1 x 30-45s",
             "notes": "Sit back onto your heels with arms reached forward, letting your chest sink toward the floor. Breathe into your lower back."
           },
           {
             "slug": "foam roller",
             "name": "Foam roller",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/spine-posture/foam roller/image.png"
+            },
             "prescription": "2 x 10",
             "notes": "Stand with your back against a wall, arms in a goalpost position. Slide arms up and down while keeping wrists and lower back in contact with the wall."
           },
           {
             "slug": "thoracic-rotation",
             "name": "Thoracic rotation",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/spine-posture/thoracic-rotation/image.png"
+            },
             "prescription": "2x10",
             "notes": "On hands and knees, place one hand behind your head and rotate your elbow toward the ceiling, following with your eyes."
           },
           {
             "slug": "thread-the-needle",
             "name": "Thread the needle",
-            "media": null,
+            "media": {
+              "type": "image",
+              "src": "exercises/daily/spine-posture/thread-the-needle/image.png"
+            },
             "prescription": "6 reps per side",
             "notes": "From hands and knees, slide one arm underneath your body, rotating your chest toward the floor. Return and repeat."
           }
